@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. the first line
 2. the second line
 3. the third line
@@ -7,3 +8,12 @@
 6. the sixth line
 7. thr seventh line
 8. the eighth line
+=======
+ignorance was bliss
+Back in the days
+where the magic exists
+
+Another day another night inside a lonely world
+Another game another fight inside a lonely world
+Another wrong another right inside a lonely world
+>>>>>>> 80ad1c12e7ed406f0dae02a450120f0047ed6cff
